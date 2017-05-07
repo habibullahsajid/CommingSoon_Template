@@ -1,6 +1,5 @@
 <?php
 //echo "From Server".json_encode($_POST)."<br>";
-
 $name = $_POST['name'];
 $email = $_POST['email'];
 $number = $_POST['number'];
