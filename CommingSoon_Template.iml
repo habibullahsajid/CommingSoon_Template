@@ -8,13 +8,13 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/PHPMailer/phpunit.phar/" />
           <root url="phar://$MODULE_DIR$/PHPMailer/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/PHPMailer/phpunit.phar/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/PHPMailer/phpunit.phar/" />
           <root url="phar://$MODULE_DIR$/PHPMailer/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/PHPMailer/phpunit.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
